@@ -4,6 +4,7 @@ $global:All = @(
     "pip-facade-users-ps"
     "pip-facade-content-ps"
     "pip-facade-support-ps"
+    "pip-facade-ecommerce-ps"
 )
 
 $global:Frameworks = @(
